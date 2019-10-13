@@ -1,0 +1,26 @@
+* {
+  background-color: beige;
+}
+.numbers {
+  list-style-type: decimal;
+}
+.squere {
+
+list-style-type: circle;
+color: red;
+}
+.blue {
+  color: blue;
+}
+.yellow {
+  color: yellow;
+
+}
+.digits {
+  color: red;
+  list-style-type: square;
+}
+.animals {
+  color: pink;
+  list-style-type: armenian;
+}

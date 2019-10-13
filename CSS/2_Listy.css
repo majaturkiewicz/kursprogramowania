@@ -1,0 +1,20 @@
+ol {
+
+list-style-type: lower-latin;
+}
+*{
+background-color: beige;
+}
+ol.decimal {
+  list-style-type: decimal;
+  color: blue;
+}
+.countries {
+  list-style-type: decimal;
+color: black;
+}
+ul.circle {
+  list-style-type: armenian;
+  color: red;
+
+}

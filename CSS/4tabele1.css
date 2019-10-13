@@ -1,0 +1,22 @@
+table, tr, th, td {
+border: solid 5px black;
+border-collapse: collapse;
+padding: 10px;
+text-align: center;
+}
+th{
+  background-color: grey;
+  color: white;
+}
+.red {
+background-color: red;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+.second {
+  border: dotted 20px pink;
+}
